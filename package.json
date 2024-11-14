@@ -1,0 +1,12 @@
+{
+  "name": "aptos-graffiti",
+  "version": "1.1.0",
+  "description": "graffiti canvas",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "aptos": "^1.20.0"
+  }
+}
